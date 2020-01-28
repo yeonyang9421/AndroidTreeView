@@ -29,8 +29,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
         final LinkedHashMap<String, Class<?>> listItems = new LinkedHashMap<>();
         listItems.put("Folder Structure Example", FolderStructureFragment.class);
         listItems.put("Custom Holder Example", CustomViewHolderFragment.class);
