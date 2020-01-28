@@ -1,4 +1,4 @@
-package com.unnamed.b.atv.sample.fragment;
+package com.unnamed.b.atv.treeviewsample.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.unnamed.b.atv.model.TreeNode;
-import com.unnamed.b.atv.sample.R;
-import com.unnamed.b.atv.sample.holder.ArrowExpandSelectableHeaderHolder;
-import com.unnamed.b.atv.sample.holder.IconTreeItemHolder;
+import com.unnamed.b.atv.treeviewsample.R;
+import com.unnamed.b.atv.treeviewsample.holder.ArrowExpandSelectableHeaderHolder;
+import com.unnamed.b.atv.treeviewsample.holder.IconTreeItemHolder;
 import com.unnamed.b.atv.view.AndroidTreeView;
 
 /**

@@ -1,4 +1,4 @@
-package com.unnamed.b.atv.sample.fragment;
+package com.unnamed.b.atv.treeviewsample.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -8,12 +8,12 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.unnamed.b.atv.model.TreeNode;
-import com.unnamed.b.atv.sample.R;
-import com.unnamed.b.atv.sample.holder.HeaderHolder;
-import com.unnamed.b.atv.sample.holder.IconTreeItemHolder;
-import com.unnamed.b.atv.sample.holder.PlaceHolderHolder;
-import com.unnamed.b.atv.sample.holder.ProfileHolder;
-import com.unnamed.b.atv.sample.holder.SocialViewHolder;
+import com.unnamed.b.atv.treeviewsample.R;
+import com.unnamed.b.atv.treeviewsample.holder.HeaderHolder;
+import com.unnamed.b.atv.treeviewsample.holder.IconTreeItemHolder;
+import com.unnamed.b.atv.treeviewsample.holder.PlaceHolderHolder;
+import com.unnamed.b.atv.treeviewsample.holder.ProfileHolder;
+import com.unnamed.b.atv.treeviewsample.holder.SocialViewHolder;
 import com.unnamed.b.atv.view.AndroidTreeView;
 
 /**

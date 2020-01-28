@@ -1,4 +1,4 @@
-package com.unnamed.b.atv.sample.activity;
+package com.unnamed.b.atv.treeviewsample.activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,12 +9,12 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.unnamed.b.atv.sample.R;
-import com.unnamed.b.atv.sample.fragment.CustomViewHolderFragment;
-import com.unnamed.b.atv.sample.fragment.FolderStructureFragment;
-import com.unnamed.b.atv.sample.fragment.SelectableTreeFragment;
-import com.unnamed.b.atv.sample.fragment.TwoDScrollingArrowExpandFragment;
-import com.unnamed.b.atv.sample.fragment.TwoDScrollingFragment;
+import com.unnamed.b.atv.treeviewsample.R;
+import com.unnamed.b.atv.treeviewsample.fragment.CustomViewHolderFragment;
+import com.unnamed.b.atv.treeviewsample.fragment.FolderStructureFragment;
+import com.unnamed.b.atv.treeviewsample.fragment.SelectableTreeFragment;
+import com.unnamed.b.atv.treeviewsample.fragment.TwoDScrollingArrowExpandFragment;
+import com.unnamed.b.atv.treeviewsample.fragment.TwoDScrollingFragment;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

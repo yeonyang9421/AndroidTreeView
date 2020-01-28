@@ -1,4 +1,4 @@
-package com.unnamed.b.atv.sample.holder;
+package com.unnamed.b.atv.treeviewsample.holder;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.CompoundButton;
 import android.widget.TextView;
 
 import com.unnamed.b.atv.model.TreeNode;
-import com.unnamed.b.atv.sample.R;
+import com.unnamed.b.atv.treeviewsample.R;
 
 /**
  * Created by Bogdan Melnychuk on 2/15/15.
